@@ -3,8 +3,8 @@
 * Course: COSC3060 Web Programming Studio
 * Semester: 2025B
 * Assessment: Fullstack in-class Lab Test
-* Author: Your names (e.g. Nguyen Van Minh)
-* ID: Your student ids (e.g. s1234567)
+* Author: Irfan Abdulla
+* ID: s3616599
 * Acknowledgement: Acknowledge the resources that you use here.
 */
 
